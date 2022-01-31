@@ -1,0 +1,34 @@
+div {
+  background-color: #007bff;
+  padding: 15px;
+}
+.features {
+  color: #80bdff;
+}
+a {
+  color: white;
+  text-decoration: none;
+  margin: 0 5px;
+}
+input {
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 0px;
+}
+button {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px white solid;
+}
+button:hover {
+  background-color: white;
+  color: black;
+}
+#logo {
+  font-size: 20px;
+  margin-right: 13px;
+}
+.right_content {
+}
